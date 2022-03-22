@@ -14,9 +14,6 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/thesubhoghosh)
 [![website](./img/instagram-light.svg)](https://www.instagram.com/subhoghosh02/)
 
-<br />
-<br />
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
