@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[![Twitter](https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png)](https://twitter.com/subhoghosh02)
-[![website](https://png.pngtree.com/element_our/png/20180827/linkedin-social-media-icon-png_71812.jpg)](https://www.linkedin.com/in/thesubhoghosh)
-[![website](https://www.citypng.com/public/uploads/preview/-516085662362mcd8wm0o8.png)](https://www.instagram.com/subhoghosh02/)
+[![website](./img/twitter-light.svg)](https://twitter.com/subhoghosh02)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/thesubhoghosh)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/subhoghosh02/)
 
 <br />
 <br />
@@ -26,6 +26,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
+[website]: https://codeSTACKr.com
 [blog]: https://ighoshsubho.hashnode.dev/
 [twitter]: https://twitter.com/subhoghosh02
 [instagram]: https://instagram.com/subhoghosh02
