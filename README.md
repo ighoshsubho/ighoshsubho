@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 Currently working on something which is a threat to humans (Kiddin 😋)<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with the research field<br>🌱 I’m currently learning how AGI comes into pic<br>💬 Ask me about LLMs, SDXL, SLMs, or SSMs <br>⚡ Fun fact - you are talking to an AGI
+🔭 Currently working on something which is a threat to humans (Kiddin 😋)<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with the research field<br>🌱 I’m currently learning how AGI comes into pic<br>💬 Ask me about LLMs, SDXL, SLMs, or SSMs <br>⚡ Fun fact - you have been reading about an AGI
 
 
 ## 🌐 Socials:
