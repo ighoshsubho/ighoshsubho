@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Subho Ghosh</h1>
-<h3 align="center">A passionate Backend and ML developer from India</h3>
+<h3 align="center">A passionate GenAI freak</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
 # 💫 About Me:
-🔭 I’m currently working on Backend and ML<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with the research field<br>🌱 I’m currently learning Cloud Computing<br>💬 Ask me about Tensorflow, AWS, Serverless<br>⚡ Fun fact I'm currently getting HTTP code 418
+🔭 Currently working on something which is a threat to humans (Kiddin 😋)<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with the research field<br>🌱 I’m currently learning how AGI comes into pic<br>💬 Ask me about LLMs, SDXL, SLMs, or SSMs <br>⚡ Fun fact - you are talking to an AGI
 
 
 ## 🌐 Socials:
