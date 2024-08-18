@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subho Ghosh</h1>
 <h3 align="center">A passionate GenAI freak (I don't eat GPUs tho 🤮)</h3>
 <div align="center">
-  <img alt="Coding" width="600" src="https://media.giphy.com/media/54QMdIfNnXTKx4Y1sh/giphy.gif">
+  <img alt="Coding" width="500" src="https://media.giphy.com/media/54QMdIfNnXTKx4Y1sh/giphy.gif">
 </div>
 
 
